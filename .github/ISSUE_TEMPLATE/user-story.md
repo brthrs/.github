@@ -13,6 +13,12 @@ As a [type of user], I want to [perform some task] so that I can [achieve some g
 **Description**
 ...
 
+**Priority**
+This will help us understand which stories you need to tackle first. Could use different types of priorization like MoSCoW, iron triangle, by value etc.
+
+**Estimate**
+Estimate the story complexity and/or time to develop.
+
 **Acceptance criteria**
 - Scenario: the name for the behaviour that will be described
 - Given:  the beginning state of the scenario
