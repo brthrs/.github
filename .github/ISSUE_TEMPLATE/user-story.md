@@ -32,4 +32,4 @@ When it is hard to fit in the Given/When/Then structure, you could use the rules
 Add any other context like references, screenshots, etc.
 
 **Linked issues**
-- Link any related issues.
+- [ ] Link any related issues.

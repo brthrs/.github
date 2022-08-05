@@ -2,7 +2,7 @@
 name: Release request
 about: Request a release
 title: ''
-labels: enhancement
+labels: release
 assignees: ''
 
 ---
