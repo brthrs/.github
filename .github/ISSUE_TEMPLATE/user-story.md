@@ -8,10 +8,8 @@ assignees: ''
 
 ---
 
-As a [type of user], I want to [perform some task] so that I can [achieve some goal].
-
 **Description**
-...
+A clear and concise description of what the user story is about.
 
 **Priority**
 This will help us understand which stories you need to tackle first. Could use different types of priorization like MoSCoW, iron triangle, by value etc.

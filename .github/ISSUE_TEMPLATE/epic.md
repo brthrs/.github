@@ -10,6 +10,9 @@ assignees: ''
 **Introduction**
 Write a friendly introduction.
 
+**Description**
+A clear and concise description of what the epic is about.
+
 - summary of what the features you’re building are for and why you’re building them
 - what metrics you are trying to improve
 - links to specific documentation
