@@ -32,4 +32,4 @@ Add any other context or screenshots about the feature request here.
 - Mockup → [Screenshot](...)
 
 **Linked issues**
-- [ ] Link any related issues.
+- Link any related issues.

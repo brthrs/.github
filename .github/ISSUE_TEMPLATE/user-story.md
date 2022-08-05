@@ -29,5 +29,9 @@ When it is hard to fit in the Given/When/Then structure, you could use the rules
 **Additional context**
 Add any other context like references, screenshots, etc.
 
+**Linked design**
+- Zeplin → ...
+- Mockup → [Screenshot](...)
+
 **Linked issues**
-- [ ] Link any related issues.
+- Link any related issues.

@@ -29,4 +29,4 @@ Provide an explanation for the whole team working on it to understand what are t
 While writing the design requirement collaborate with your UX designer as much as you can. 
 
 **Linked issues**
-- [ ] Link any related issues.
+- Link any related issues.
