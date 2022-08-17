@@ -1,7 +1,7 @@
 ---
 name: Release request
 about: Request a release
-title: ''
+title: Production Build (v0.0.0)/Production Release (v0.0.0)
 labels: release
 assignees: ''
 
