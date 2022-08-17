@@ -14,8 +14,8 @@ assignees: ''
 | Version | `v0.0.0` |
 | Type | `App` `WebApp` `Wordpress` |
 | Platform | `App Store` `Google Play Store` `Firebase` `AWS` |
-| Environment | `staging` `acceptance` `production` |
-| Server | `Tormund` `Tyrion` `Tywin` `Arya` `Syrax` `AWS` |
+| Environment | `local` `staging` `acceptance` `production` `any` |
+| Server | `Tormund` `Tyrion` `Tywin` `Arya` `Syrax` `Firebase` `AWS` |
 
 **Aftercare**
 Any aftercare like managing milestones, finishing sprints, actual releases, communication with the client, etc. is done by the Product team. [Read more about it in Notion](https://www.notion.so/brthrs/How-do-we-sprint-a4467a68e4db4f8f95fb10f54a8d3070#049e7edbb0d44fa09215240582faa103).
