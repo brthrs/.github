@@ -32,7 +32,7 @@ Add any other context or screenshots about the feature request here.
 
 **Additional screenshots**
 <details>
-<summary>Label</summary>
+<summary>Screenshot</summary>
 
 [IMAGE_HERE]
 
