@@ -27,6 +27,17 @@ A clear and concise description of any alternative solutions or features you've 
 **Additional context**
 Add any other context or screenshots about the feature request here.
 
+**Additional pointers**
+- Additional pointer 
+
+**Additional screenshots**
+<details>
+<summary>Label</summary>
+
+[IMAGE_HERE]
+
+</details>
+
 **Linked design**
 - Zeplin → ...
 - Mockup → [Screenshot](...)
