@@ -20,9 +20,16 @@ A clear and concise description of what you want to happen.
 A clear and concise description of any alternative solutions or features you've considered.
 
 **Additional user stories**
-- As a [type of user]
-- I want to [perform some task] 
+- As a [type of user],
+- I want to [perform some task],
 - So that I can [achieve some goal]
+
+**Additional user stories**
+- In order to [achieve some goal],
+- As a [type of user],
+- I want [some new system feature]
+
+
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
