@@ -12,7 +12,7 @@ assignees: ''
 | Date | `0000-00-00` `when ready` |
 | Milestone | `v0.0.0` |
 | Version | `v0.0.0` |
-| Type | `App` `WebApp` `Wordpress` |
+| Type | `App` `WebApp` `Wordpress`, `Backend` |
 | Platform | `App Store` `Google Play Store` `Firebase` `AWS` |
 | Environment | `local` `staging` `acceptance` `production` `any` |
 | Server | `Tormund` `Tyrion` `Tywin` `Arya` `Syrax` `Firebase` `AWS` |
