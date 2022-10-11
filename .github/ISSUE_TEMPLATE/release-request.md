@@ -1,7 +1,7 @@
 ---
-name: '\U0001F381 Release request'
-about: 'Request a release for this project.'
-title: '[Production Build (v0.0.0)/Production Release (v0.0.0)]'
+name: "\U0001F381 Release request"
+about: "Request a release for this project."
+title: "[Production Build (v0.0.0)/Production Release (v0.0.0)]"
 labels: release
 assignees: ''
 

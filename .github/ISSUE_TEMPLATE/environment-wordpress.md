@@ -1,7 +1,7 @@
 ---
-name: '\U0001F30D Environment request (WordPress)'
-about: 'Request a WordPress environment for this project.'
-title: '[Staging/Acceptance/Production/Legacy] Environment'
+name: "\U0001F30D Environment request (WordPress)"
+about: "Request a WordPress environment for this project."
+title: "[Staging/Acceptance/Production/Legacy] Environment"
 labels: enhancement
 assignees: sebask
 
