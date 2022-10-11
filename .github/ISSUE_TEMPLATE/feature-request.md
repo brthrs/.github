@@ -1,5 +1,5 @@
 ---
-name: 🗂 Feature request
+name: 📦 Feature request
 about: Describe a feature or improvement for this project.
 title: ''
 labels: enhancement
