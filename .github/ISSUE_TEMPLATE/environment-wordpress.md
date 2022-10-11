@@ -147,7 +147,7 @@ The following settings should be (un)set.
 | * | `Off` | Yoast/General/Integrations |
 
 ## Themes
-The following themes are in use: `bewegin`.
+The following themes are in use: `example`.
 
 # Users
 ## Development
