@@ -21,10 +21,10 @@ A clear and concise description of what the epic is about:
 Provide an explanation for the whole team working on it to understand what are they going to design, build, test or release.
 
 **Technical requirement**
-While writing the technical requirements collaborate with your developers as much as you can. 
+While writing the technical requirements collaborate with your developers as much as you can.
 
 **Design requirement**
-While writing the design requirements collaborate with your designer as much as you can. 
+While writing the design requirements collaborate with your designer as much as you can.
 
 **Noteworthy**
 Anything else that might be noteworthy.
@@ -33,7 +33,7 @@ Anything else that might be noteworthy.
 - Link to the issues in this sprint.
 
 **Design**
-- Link to Sketch 
+- Link to Sketch
 - Link to Zeplin
 
 **Additional user stories**
