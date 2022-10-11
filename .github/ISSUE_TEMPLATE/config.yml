@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: 'Brthrs Support'
     url: https://www.notion.so/brthrs/Alles-op-een-rijtje-2feb28dde84e455b93f7d748b98f6841
-    about: 'Contact us directly instead of creating an issue.''
+    about: 'Contact us directly instead of creating an issue.'
   - name: 'Brthrs Knowledge Base'
     url: https://www.notion.so/brthrs/Kennisbank-aa8b4bfde7a34011af163f80e76031a6
     about: 'Dive into our help pages.'
