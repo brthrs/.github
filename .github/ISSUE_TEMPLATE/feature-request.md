@@ -1,10 +1,9 @@
 ---
-name: Feature request
+name: 🗂 Feature request
 about: Suggest an idea for this project
 title: ''
 labels: enhancement
 assignees: ''
-
 ---
 
 **Description**
@@ -33,7 +32,7 @@ A clear and concise description of any alternative solutions or features you've 
 Add any other context or screenshots about the feature request here.
 
 **Additional pointers**
-- Additional pointer 
+- Additional pointer
 
 **Additional screenshots**
 <details>
