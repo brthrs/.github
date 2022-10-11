@@ -1,6 +1,6 @@
 ---
 name: ⛰ Epic
-about: Describe this issue template's purpose here.
+about: A large chunk of work that is segmented into smaller tasks.
 title: ''
 labels: enhancement, epic
 assignees: ''
