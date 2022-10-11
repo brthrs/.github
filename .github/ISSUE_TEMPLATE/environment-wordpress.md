@@ -3,7 +3,7 @@ name: 🌍 Environment request (WordPress)
 about: Request a WordPress environment for this project.
 title: [Staging/Acceptance/Production/Legacy] Environment
 labels: enhancement
-assignees: 'sebask'
+assignees: ''
 ---
 
 ## Requirements
