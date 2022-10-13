@@ -30,11 +30,11 @@ The following values should be (un)set for PHP (`php.ini`):
 The following defaults should be (un)set for WordPress (`wp-config.php`):
 | Variable | Value |
 | :--- | :--- |
-| `WP_ENVIRONMENT_TYPE` | `staging` |
+| `WP_ENVIRONMENT_TYPE` | `staging`, `production` |
 | `WP_ALLOW_MULTISITE` | `false` |
-| `FORCE_SSL_ADMIN` | `false` |
+| `FORCE_SSL_ADMIN` | `false`, `true` |
 | `DISALLOW_FILE_EDIT` | `true` |
-| `WP_DEBUG` | `true` |
+| `WP_DEBUG` | `true`, `false` |
 
 <details>
 <summary>Configuration snippet</summary>
@@ -45,7 +45,7 @@ The following defaults should be (un)set for WordPress (`wp-config.php`):
  *
  * @link https://wordpress.org/support/article/editing-wp-config-php/#wp-environment-type
  */
-define('WP_ENVIRONMENT_TYPE', 'staging');
+define('WP_ENVIRONMENT_TYPE', 'production');
 
 /**
  * Enable Multisite/Network
@@ -59,7 +59,7 @@ define('WP_ALLOW_MULTISITE', false);
  *
  * @link https://developer.wordpress.org/reference/functions/force_ssl_admin/
  */
-define('FORCE_SSL_ADMIN', false);
+define('FORCE_SSL_ADMIN', true);
 
 /**
  * Disable the Plugin and Theme File Editor
@@ -73,7 +73,7 @@ define('DISALLOW_FILE_EDIT', true);
  *
  * @link https://wordpress.org/support/article/editing-wp-config-php/#wp-debug
  */
-define( 'WP_DEBUG', true );
+define( 'WP_DEBUG', false );
 
 if ( WP_DEBUG ) {
   define( 'WP_DEBUG_LOG', true );
