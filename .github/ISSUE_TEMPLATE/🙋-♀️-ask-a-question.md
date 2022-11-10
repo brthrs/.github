@@ -1,5 +1,5 @@
 ---
-name: \U000FE0F Ask a question
+name: "\U0001F64B‍♀️ Ask a question"
 about: Ask a question, could be an issue starter.
 title: ''
 labels: question
