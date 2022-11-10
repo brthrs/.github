@@ -1,5 +1,5 @@
 ---
-name: "\U00026F0 Epic"
+name: "Epic"
 about: "A large chunk of work that is segmented into smaller tasks."
 title: ''
 labels: enhancement, epic
