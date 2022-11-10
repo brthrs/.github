@@ -108,13 +108,22 @@ The following plugins should be (un)installed:
 | WP Mail SMTP | `?` | `-` |
 | Yoast SEO | `?` | `-` |
 
+<details>
+<summary>WP-CLI commands</summary>
+
+```sh
+wp plugin uninstall akismet
+wp plugin uninstall hello
+```
+</details>
+
 ## Settings
 The following settings should be (un)set.
 
 | Setting | Value | Location |
 | :--- | :--- | :--- |
-| Site Title | `?` | `WordPress/General` |
-| Tagline | `?` | `WordPress/General` |
+| Site Title | `Example` | `WordPress/General` |
+| Tagline | `This is an example` | `WordPress/General` |
 | WordPress Address | `https://example.com` | `WordPress/General` |
 | Site Address | `https://example.com` | `WordPress/General` |
 | Administration Email Address | `wordpress@brthrs.nl` | `WordPress/General` |
@@ -122,12 +131,17 @@ The following settings should be (un)set.
 | New User Default | `Subscriber` | `WordPress/General` |
 | Site Language | `Nederlands` | `WordPress/General` |
 | Timezone | `Amsterdam` | `WordPress/General` |
-| Date Format | `Y-m-d` | `WordPress/General` |
+| Date Format | `j F Y` | `WordPress/General` |
 | Time Format | `H:i` | `WordPress/General` |
 | Week Starts On | `Monday` | `WordPress/General` |
-| Homepage | `?` | `WordPress/Reading` |
-| Posts page | `?` | `WordPress/Reading` |
+| Homepage | `-` | `WordPress/Reading` |
+| Posts page | `-` | `WordPress/Reading` |
 | Search engine visibility | `0` | `WordPress/Reading` |
+| Pingback flag | `0` | `WordPress/Discussion` |
+| Ping status | `0` | `WordPress/Discussion` |
+| Comments status | `0` | `WordPress/Discussion` |
+| Comment registration | `1` | `WordPress/Discussion` |
+| Comment moderation | `1` | `WordPress/Discussion` |
 | Thumbnail size | `240 x 240` | `WordPress/Media` |
 | Medium size | `512 x 512` | `WordPress/Media` |
 | Large size | `1024 x 1024` | `WordPress/Media` |
@@ -156,8 +170,41 @@ The following settings should be (un)set.
 | Enhanced Slack sharing | `Off` | `Yoast/General/Features` |
 | * | `Off` | `Yoast/General/Integrations` |
 
+<details>
+<summary>WP-CLI commands</summary>
+
+```sh
+wp option set blogname "Example"
+wp option set blogdescription "This is an example"
+wp option set timezone_string "Europe/Amsterdam"
+wp option set blog_public 0
+wp option set default_pingback_flag 0
+wp option set default_ping_status 0
+wp option set default_comment_status 0
+wp option set comment_registration 1
+wp option set comment_moderation 1
+wp option set thumbnail_size_w 256
+wp option set thumbnail_size_h 256
+wp option set medium_size_w 512
+wp option set medium_size_h 512
+wp option set large_size_w 1024
+wp option set large_size_h 1024
+wp option set permalink_structure "/%postname%/"
+```
+</details>
+
 ## Themes
 The following themes should be installed: `example`.
+
+<details>
+<summary>WP-CLI commands</summary>
+
+```sh
+wp theme uninstall twentytwenty
+wp theme uninstall twentytwentyone
+wp theme uninstall twentytwentytwo
+```
+</details>
 
 ## Users
 The following users should be created:
