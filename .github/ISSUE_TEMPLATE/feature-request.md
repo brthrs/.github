@@ -1,6 +1,6 @@
 ---
 name: "\U0001F4E6 Feature request"
-about: "Describe a feature or improvement for this project."
+about: Describe a feature or improvement for this project.
 title: ''
 labels: enhancement
 assignees: ''

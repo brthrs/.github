@@ -1,7 +1,8 @@
 ---
 name: "\U0001F4C7 User Story"
-about: "Describe a feature or improvement as a user story."
-title: "As a [type of user], I want to [perform some task] so that I can [achieve some goal]"
+about: Describe a feature or improvement as a user story.
+title: As a [type of user], I want to [perform some task] so that I can [achieve some
+  goal]
 labels: enhancement
 assignees: ''
 
