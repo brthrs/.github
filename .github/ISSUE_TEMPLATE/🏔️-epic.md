@@ -54,3 +54,18 @@ Anything else that might be noteworthy.
 [IMAGE]
 
 </details>
+
+**Definition of Done***
+- [ ] Before moving to 'In progress'
+  - [ ] Issue refined / clear issue description
+- [ ] Before moving to 'Review'
+  - [ ] Unit tests
+  - [ ] Documentation updated
+- [ ] Before moving to 'Test'
+  - [ ] PR approved by two or more developers
+  - [ ] Merged into develop
+  - [ ] Deployed to development environment
+- [ ] Before moving to 'Done'
+  - [ ] The acceptance criteria are met
+
+_\* See notion for more info._
