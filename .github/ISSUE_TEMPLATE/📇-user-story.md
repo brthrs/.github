@@ -36,9 +36,16 @@ Add any other context like references, screenshots, etc.
 **Linked issues**
 - Link any related issues.
 
+**Definition of Ready***
+- [ ] Design specs provided
+- [ ] Small unit of work
+- [ ] Acceptance criteria agreed upon
+- [ ] Testable
+- [ ] Estimated
+
 **Definition of Done***
 - [ ] Before moving to 'In progress'
-  - [ ] Issue refined / clear issue description
+  - [ ] Definition of Ready completed
 - [ ] Before moving to 'Review'
   - [ ] Unit tests created
   - [ ] Automations passed 
