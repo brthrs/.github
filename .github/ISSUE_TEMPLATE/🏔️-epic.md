@@ -55,9 +55,16 @@ Anything else that might be noteworthy.
 
 </details>
 
+**Definition of Ready***
+- [ ] Design specs provided
+- [ ] Small unit of work
+- [ ] Acceptance criteria agreed upon
+- [ ] Testable
+- [ ] Estimated
+
 **Definition of Done***
 - [ ] Before moving to 'In progress'
-  - [ ] Issue refined / clear issue description
+  - [ ] Definition of Ready completed
 - [ ] Before moving to 'Review'
   - [ ] Unit tests created
   - [ ] Automations passed 
