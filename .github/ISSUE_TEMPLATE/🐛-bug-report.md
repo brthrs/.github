@@ -47,13 +47,16 @@ Add any other context about the problem here.
 - [ ] Before moving to 'In progress'
   - [ ] Issue refined / clear issue description
 - [ ] Before moving to 'Review'
-  - [ ] Unit tests
+  - [ ] Unit tests created
+  - [ ] Automations passed 
   - [ ] Documentation updated
 - [ ] Before moving to 'Test'
   - [ ] PR approved by two or more developers
   - [ ] Merged into develop
+  - [ ] Automations passed
   - [ ] Deployed to development environment
 - [ ] Before moving to 'Done'
   - [ ] The acceptance criteria are met
 
 _\* See notion for more info._
+
