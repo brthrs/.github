@@ -43,9 +43,16 @@ Add any other context about the problem here.
 **Linked issues**
 - Link any related issues.
 
+**Definition of Ready***
+- [ ] Steps to repoduce provided
+- [ ] Expected and actual behaviour provided
+- [ ] Small unit of work
+- [ ] Testable
+- [ ] Estimated
+
 **Definition of Done***
 - [ ] Before moving to 'In progress'
-  - [ ] Issue refined / clear issue description
+  - [ ] Definition of Ready completed
 - [ ] Before moving to 'Review'
   - [ ] Unit tests created
   - [ ] Automations passed 
@@ -59,4 +66,3 @@ Add any other context about the problem here.
   - [ ] The acceptance criteria are met
 
 _\* See notion for more info._
-
