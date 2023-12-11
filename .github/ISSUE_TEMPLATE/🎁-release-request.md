@@ -25,3 +25,8 @@ Any aftercare like managing milestones, finishing sprints, actual releases, comm
 
 **References**
 Specific project documentation or checklists can be found in the repository's README or wiki. General guidelines, documentation, or checklists can be found in Notion for either [App](https://www.notion.so/brthrs/How-do-we-release-apps-0afd7e1f25fd437096bd5dbcf8f9f31f), [Web](https://www.notion.so/brthrs/How-do-we-release-Webdev-WordPress-cd0d8070221a4f0694cd11b5f1ac6cdc), or [WordPress](https://www.notion.so/brthrs/How-do-we-release-Webdev-WordPress-cd0d8070221a4f0694cd11b5f1ac6cdc) projects.
+
+**Definition of Done**
+- [ ] Merged into master
+- [ ] Make git release
+- [ ] Tag version on maste branch
